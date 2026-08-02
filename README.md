@@ -39,6 +39,10 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
+## Screenshot
+
+![Todo App Screenshot](./screenshots/todo.png)
+
 
 ## Installation
 
