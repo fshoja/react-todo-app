@@ -1,29 +1,35 @@
+
 # React Todo App
 
 A modern and responsive Todo List application built with React.
 
 ## Features
 
-- Add new tasks
-- Delete tasks
-- Mark tasks as completed
-- Undo completed tasks
-- Filter tasks:
-  - All
-  - Active
-  - Completed
-- Task statistics:
-  - Total Tasks
-  - Active Tasks
-  - Completed Tasks
-- Responsive design
+* Add new tasks
+* Delete tasks
+* Mark tasks as completed
+* Undo completed tasks
+* Filter tasks:
+
+  * All
+  * Active
+  * Completed
+* Task statistics:
+
+  * Total Tasks
+  * Completed Tasks
+  * Remaining Tasks
+* Save tasks using LocalStorage
+* Responsive design
 
 ## Technologies
 
-- React
-- JavaScript (ES6+)
-- CSS3
-- Vite
+* React
+* JavaScript (ES6+)
+* CSS3
+* Vite
+* React Icons
+* LocalStorage
 
 ## Project Structure
 
@@ -70,16 +76,23 @@ Run the development server:
 npm run dev
 ```
 
+Build for production:
+
+```bash
+npm run build
+```
+
 ## Future Improvements
 
-- Save tasks with LocalStorage
-- Edit task titles
-- Add dark mode
-- Add animations
+* Edit task titles
+* Add dark mode
+* Add animations
+* Add user authentication
 
 ## Author
 
 Farzaneh Shoja
 
 GitHub:
+
 https://github.com/fshoja
